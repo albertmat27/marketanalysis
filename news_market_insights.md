@@ -1,6 +1,6 @@
 #Bitcoin News Market Insights
 
-** Created 11:16 am November 12, 2014 **
+**Created 11:16 am November 12, 2014**
 
 We can estimate the relative market share of news companies by comparing social
 media reach because social media is a key news distribution channel. For example,
